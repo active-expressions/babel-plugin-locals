@@ -1,4 +1,4 @@
-# babel-plugin-locals
+# babel-plugin-locals [![Build Status](https://travis-ci.org/active-expressions/babel-plugin-locals.svg?branch=master)](https://travis-ci.org/active-expressions/babel-plugin-locals)
 
 Python locals() in JavaScript.
 
